@@ -84,5 +84,5 @@ class InsertionSort
         System.out.println("Sorted array");
         ob.printArray(arr);
     }
->>>>>>> 92d5eaa8a637acf83e88dc217a03ac3a5c2fc2d4
+
 }
